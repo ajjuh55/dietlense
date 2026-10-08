@@ -1,0 +1,14 @@
+env file:-
+--------------
+a simple text file used to store sensitive 
+ configuration settings, API keys, and environment variables separate from your application code
+- it absalutely maked in main project file (.env)
+- it cant be push to git make restriction for it by the devolepe
+
+pythpn decouple:-
+------------------
+it using pip install python-
+
+
+
+.gitignore:- maandatha file github push aavathakkan use aakkunnu
